@@ -26,7 +26,7 @@ const MultipleFileUploader = () => {
         <div className="col-md-8">
           <div className="card">
             <div className="card-header bg-primary text-white text-center">
-              <h1>Multiple File Uploader</h1>
+              <h1>Multiple Files Uploader</h1>
             </div>
             <div className="card-body">
               <div className="form-group d-flex align-items-center">
